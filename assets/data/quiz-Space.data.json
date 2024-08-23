@@ -1,0 +1,347 @@
+{
+  "quizId": 20240502,
+  "quizName": "2 мая 2024",
+  "data": [
+    {
+      "taskText": "Тема: Космос и космические объекты.",
+      "taskSource": "quiz-space/task.mp3",
+      "backgroundSource": "assets/quiz-space/images/1.png",
+      "questions": [
+        {
+          "questionText": "В далеком космосе, среди звезд, летел огромный космический корабль. Его гордый командир, капитан Звездолета, мечтал исследовать новые миры. Он нажал кнопку запуска, и корабль мощным рывком взмыл в невесомость. Вопрос:Как называется машина, которая летает в космосе?",
+          "questionSource": "quiz-space/t1.mp3",
+          "backgroundSource": "assets/quiz-space/images/1.png",
+          "imageSource": "assets/quiz-space/images/2.png",
+          "ansImageSource": "assets/quiz-space/images/3.png",
+          "answers": [
+            "Космический вертолет",
+            "Космический корабль",
+            "Самолет",
+            "Космическая машина"
+          ],
+          "button_images": [
+            "assets/images/buttons/t1_b1.png",
+            "assets/images/buttons/t1_b2.png",
+            "assets/images/buttons/t1_b3.png",
+            "assets/images/buttons/t1_b4.png"
+          ],
+          "rightAnswer": "Космический корабль",
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-space/t1.a.mp3"
+        },
+        {
+          "questionText": "После долгого путешествия Звездолет подошел к спутнику земли Луне. Ее серебристая поверхность сверкала на фоне звездного неба. Капитан и его команда выглянули из иллюминатора и вздохнули от изумления. Вопрос: Что они увидели: Луну, Марс или Венеру?",
+          "questionSource": "quiz-space/t2.mp3",
+          "imageSource": "assets/quiz-space/images/4.png",
+          "ansImageSource": "assets/quiz-space/images/5.png",
+          "answers": [
+            "Луна",
+            "Марс",
+            "Венера",
+            "Юпитер"
+          ],
+          "button_images": [
+            "assets/images/buttons/t2_b1.png",
+            "assets/images/buttons/t2_b2.png",
+            "assets/images/buttons/t2_b3.png",
+            "assets/images/buttons/t2_b4.png"
+          ],
+          "rightAnswer": "Луна",
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-space/t2.a.mp3"
+        },
+        {
+          "questionText": "После исследования Луны, Звездолет вернулся на родную Землю. Свой красивый сине-зеленый цвет планета демонстрировала со всех сторон. Команда смотрела на шар с любовью и благоговением. Вопрос:Что мы видим из космоса, когда смотрим на Землю?",
+          "questionSource": "quiz-space/t3.mp3",
+          "imageSource": "assets/quiz-space/images/6.png",
+          "ansImageSource": "assets/quiz-space/images/7.png",
+          "answers": [
+            "Квадрат",
+            "Шар",
+            "Треугольник",
+            "Ромб"
+          ],
+          "button_images": [
+            "assets/images/buttons/t3_b1.png",
+            "assets/images/buttons/t3_b2.png",
+            "assets/images/buttons/t3_b3.png",
+            "assets/images/buttons/t3_b4.png"
+          ],
+          "rightAnswer": "Шар",
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-space/t3.a.mp3"
+        },
+        {
+          "questionText": "Вернувшись домой, капитан Звездолета и его команда смотрели на сверкающее Солнце через окно корабля. Они благодарили эту великолепную звезду за свет и тепло, которые она дарила им во время их приключений. Вопрос:Что команда увидела из иллюминатора:  Луну, Солнце или Плутон?",
+          "questionSource": "quiz-space/t4.mp3",
+          "imageSource": "assets/quiz-space/images/8.png",
+          "ansImageSource": "assets/quiz-space/images/9.png",
+          "answers": [
+            "Луна",
+            "Солнце",
+            "Плутон",
+            "Марс"
+          ],
+          "button_images": [
+            "assets/images/buttons/t4_b1.png",
+            "assets/images/buttons/t4_b2.png",
+            "assets/images/buttons/t4_b3.png",
+            "assets/images/buttons/t4_b4.png"
+          ],
+          "rightAnswer": "Солнце",
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-space/t4.a.mp3"
+        },
+        {
+          "questionText": "Однажды капитан Звездолета и его отважная команда отправились в удивительное путешествие по Солнечной системе. Они увидели множество красивых планет, вращающихся вокруг яркого Солнца. И самая близкая к Солнцу планета, Меркурий, манила их своей загадочностью. Вопрос: Какая первая планета к солнцу?",
+          "questionSource": "quiz-space/t5.mp3",
+          "imageSource": "assets/quiz-space/images/10.png",
+          "ansImageSource": "assets/quiz-space/images/11.png",
+          "answers": [
+            "Меркурий",
+            "Венера",
+            "Земля",
+            "Нептун"
+          ],
+          "button_images": [
+            "assets/images/buttons/t5_b1.png",
+            "assets/images/buttons/t5_b2.png",
+            "assets/images/buttons/t5_b3.png",
+            "assets/images/buttons/t5_b4.png"
+          ],
+          "rightAnswer": "Меркурий",
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-space/t5.a.mp3"
+        }
+      ]
+    },
+    {
+      "taskText": "Тема: Слова, образующиеся от слова вода. В русском языке есть много слов, которые образованы от слова 'вода', это водичка, водяной, водянка, наводнить, безводный, заводь и многие другие.",
+      "taskSource": "quiz-16-03-2023/p1.task.mp3",
+      "backgroundSource": "assets/quiz-16-03-2023/image/1.png",
+      "questions": [
+        {
+          "questionText": "Как ты думаешь, куда больше поместится воды, в чашку или в ложку? Если в чашку, нажми букву 'Ч' если в ложку - букву 'Л'. Отвечает первая команда.",
+          "questionSource": "quiz-16-03-2023/p2.q1.mp3",
+          "backgroundSource": "assets/quiz-16-03-2023/image/1.png",
+          "imageSource": "assets/quiz-16-03-2023/image/2.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/2.1.png",
+          "answers": [
+            "Ч",
+            "Л"
+          ],
+          "rightAnswer": "Ч",
+          "button_images": [
+            "assets/quiz-16-03-2023/image/buttons/кружка.png",
+            "assets/quiz-16-03-2023/image/buttons/ложка.png"
+          ],
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-16-03-2023/p2.a1.mp3"
+        },
+        {
+          "questionText": "Как ты думаешь, куда больше поместится воды, в кастрюлю или в ванну? Если в кастрюлю, нажми букву 'К' если в ванну - букву 'В'. Отвечает вторая команда.",
+          "questionSource": "quiz-16-03-2023/p2.q2.mp3",
+          "imageSource": "assets/quiz-16-03-2023/image/3.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/3.1.png",
+          "answers": [
+            "К",
+            "В"
+          ],
+          "rightAnswer": "В",
+          "button_images": [
+            "assets/quiz-16-03-2023/image/buttons/кастрюля.png",
+            "assets/quiz-16-03-2023/image/buttons/ванна.png"
+          ],
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-16-03-2023/p2.a2.mp3"
+        },
+        {
+          "questionText": "Как ты думаешь, куда больше поместится воды, в чашку или в ванну? Если в чашку, нажми букву 'Ч' если в ванну - букву 'В'. Отвечает первая команда.",
+          "questionSource": "quiz-16-03-2023/p2.q3.mp3",
+          "imageSource": "assets/quiz-16-03-2023/image/4.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/4.1.png",
+          "answers": [
+            "Ч",
+            "В"
+          ],
+          "rightAnswer": "В",
+          "button_images": [
+            "assets/quiz-16-03-2023/image/buttons/кружка.png",
+            "assets/quiz-16-03-2023/image/buttons/ванна.png"
+          ],
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-16-03-2023/p2.a3.mp3"
+        },
+        {
+          "questionText": "Как ты думаешь, где больше воды, в море или в ложке? Если в море, нажми букву 'М' если в ложку - букву 'Л'. Отвечает вторая команда.",
+          "questionSource": "quiz-16-03-2023/p2.q4.mp3",
+          "imageSource": "assets/quiz-16-03-2023/image/5.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/5.1.png",
+          "answers": [
+            "М",
+            "Л"
+          ],
+          "rightAnswer": "М",
+          "button_images": [
+            "assets/quiz-16-03-2023/image/buttons/море.png",
+            "assets/quiz-16-03-2023/image/buttons/ложка.png"
+          ],
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-16-03-2023/p2.a4.mp3"
+        },
+        {
+          "questionText": "Как ты думаешь, где больше воды, в реке или в чашке? Если в реке, нажми букву 'Р' если в чашке - букву 'Ч'. Отвечает первая команда.",
+          "questionSource": "quiz-16-03-2023/p2.q5.mp3",
+          "imageSource": "assets/quiz-16-03-2023/image/6.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/6.1.png",
+          "answers": [
+            "Р",
+            "Ч"
+          ],
+          "rightAnswer": "Р",
+          "button_images": [
+            "assets/quiz-16-03-2023/image/buttons/речка.png",
+            "assets/quiz-16-03-2023/image/buttons/кружка.png"
+          ],
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-16-03-2023/p2.a5.mp3"
+        },
+        {
+          "questionText": "Как ты думаешь, где больше воды, в ванне или в море? Если в ванне, нажми букву 'В' если в море - букву 'М'. Отвечает вторая команда.",
+          "questionSource": "quiz-16-03-2023/p2.q6.mp3",
+          "imageSource": "assets/quiz-16-03-2023/image/7.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/7.1.png",
+          "answers": [
+            "В",
+            "М"
+          ],
+          "rightAnswer": "М",
+          "button_images": [
+            "assets/quiz-16-03-2023/image/buttons/ванна.png",
+            "assets/quiz-16-03-2023/image/buttons/море.png"
+          ],
+          "rightAnswerText": "Правильно",
+          "rightAnswerSource": "quiz-16-03-2023/p2.a6.mp3"
+        }
+      ]
+    },
+    {
+      "taskText": "Тема: Рыбки. Привет ребята! Меня зовут цыпленок ЦиППа, и сейчас мы будем учиться считать рыбок в нашем волшебном водоеме.",
+      "taskSource": "quiz-fish/audio/p1.task.mp3",
+      "backgroundSource": "assets/quiz-fish/image/1.png",
+      "questions": [
+        {
+          "questionText": "Смотрите, в нашем водоеме уже есть рыбки. Давайте скорее их посчитаем. Сколько рыбок в водоеме?",
+          "questionSource": "quiz-fish/audio/p2.q1.mp3",
+          "backgroundSource": "assets/quiz-fish/image/1.png",
+          "imageSource": "assets/quiz-fish/image/2.png",
+          "ansImageSource": "assets/quiz-fish/image/4.png",
+          "answers": [
+            "5",
+            "3"
+          ],
+          "rightAnswer": "3",
+          "rightAnswerText": "Давайте посчитаем: Раз, два,и вот еще спряталась - три! Всего три рыбки. Правильно",
+          "rightAnswerSource": "quiz-fish/audio/p2.a1.mp3"
+        },
+        {
+          "questionText": "Смотрите в водоем приплыли еще 4 рыбки. Сколько их теперь?",
+          "questionSource": "quiz-fish/audio/p2.q2.mp3",
+          "imageSource": "assets/quiz-fish/image/6.png",
+          "ansImageSource": "assets/quiz-fish/image/4.png",
+          "answers": [
+            "7",
+            "9"
+          ],
+          "rightAnswer": "7",
+          "rightAnswerText": "Правильно! Всего семь рыбок",
+          "rightAnswerSource": "quiz-fish/audio/p2.a2.mp3"
+        },
+        {
+          "questionText": "А теперь я возьму свою волшебную удочку и выловлю 5 рыбок. Сколько их осталось?",
+          "questionSource": "quiz-fish/audio/p2.q3.mp3",
+          "imageSource": "assets/quiz-fish/image/9.png",
+          "ansImageSource": "assets/quiz-fish/image/11.png",
+          "answers": [
+            "4",
+            "2"
+          ],
+          "rightAnswer": "2",
+          "rightAnswerText": "Правильно! Осталось всего две рыбки",
+          "rightAnswerSource": "quiz-fish/audio/p2.a3.mp3"
+        },
+        {
+          "questionText": "Отличная работа ребята! Мы почти у цели. А пока приплыли еще рыбки. Давайте считать!",
+          "questionSource": "quiz-fish/audio/p2.q4.mp3",
+          "imageSource": "assets/quiz-fish/image/13.png",
+          "ansImageSource": "assets/quiz-fish/image/15.png",
+          "answers": [
+            "9",
+            "4"
+          ],
+          "rightAnswer": "9",
+          "rightAnswerText": "Да, 9 рыбок! Вы уже профессиональные счетоводы! Мне понравилось с вами играть! Приходите снова считать рыбок. До новых встреч!",
+          "rightAnswerSource": "quiz-fish/audio/p2.a4.mp3"
+        }
+      ]
+    },
+    {
+      "taskText": "Тема: Путешествие в мир сказок. Привет, ребята! Меня зовут Циппа, и сейчас мы с вами отправимся в мир сказок. Вы готовы начать?",
+      "taskSource": "quiz-fairytales/p1.task.mp3",
+      "backgroundSource": "assets/images/backgrounds/fairytales.png",
+      "Stories": [
+        {
+          "storyText": "Сказка - это история. Она может быть выдуманной или основанной на реальных событиях. В сказке обычно есть герои, которые испытывают различные приключения и преодолевают трудности. Сказки могут быть веселыми и забавными, а иногда они могут быть грустными или страшными. Но в конце всегда происходит что-то хорошее, и герои получают счастливый конец.",
+          "storySource": "quiz-fairytales/p2.s1.mp3",
+          "character": [
+            "Аладин",
+            "Красная шапочка",
+            "Колобок",
+            "Буратино"
+          ],
+          "FirstCharacter": "Аладин",
+          "FirstCharacterText": "Алладин - это главный герой сказки Алладин и волшебная лампа. Он был обычным мальчиком, который случайно нашел волшебную лампу. При помощи этой лампы он вызывал джинна, который исполнял его желания. Алладин использовал свои желания, чтобы стать богатым и выйти замуж за принцессу. В конце сказки он победил злого волшебника и жил счастливо со своей возлюбленной.",
+          "FirstCharacterSource": "quiz-fairytales/p1.c1.mp3",
+          "SecondCharacter": "Красная шапочка",
+          "SecondCharacterText": "Красная Шапочка - это героиня сказки. Она была создана в сказке Красная Шапочка, которую написал французский писатель Шарль Перро. В этой сказке Красная Шапочка отправляется к своей бабушке, но на пути встречает злого волка, который пытается съесть ее и бабушку. В конце сказки Красная Шапочка и ее бабушка спасаются благодаря помощи лесничего.",
+          "SecondCharacterSource": "quiz-fairytales/p1.c2.mp3",
+          "ThirdCharacter": "Колобок",
+          "ThirdCharacterText": "Колобок это главный персонаж сказки про Колобка. Это круглый аппетитный хлебушек, который умеет разговаривать, петь и быстро передвигаться. Он убегает от бабушки и дедушки, чтобы наслаждаться свободой.",
+          "ThirdCharacterSource": "quiz-fairytales/p1.c3.mp3",
+          "FourthCharacter": "Буратино",
+          "FourthCharacterText": "Буратино – это деревянный мальчик, которого сделал из полена добрый старик по имени Карло. Буратино очень любопытный и озорной. У него длинный нос и большие глаза. Буратино живёт в мире сказки, где он встречает много разных персонажей, таких как черепаха Тортилла, кот Базилио и лиса Алиса.",
+          "FourthCharacterSource": "quiz-fairytales/p1.c4.mp3"
+        }
+      ]
+    },
+    {
+      "taskText": "Тема: Профориентация. Привет, ребята! Меня зовут Циппа, и сейчас мы с вами отправимся в мир сказок. Вы готовы начать?",
+      "taskSource": "quiz-fairytales/p1.task.mp3",
+      "backgroundSource": "assets/images/backgrounds/fairytales.png",
+      "Stories": [
+        {
+          "storyText": "Сказка - это история. Она может быть выдуманной или основанной на реальных событиях. В сказке обычно есть герои, которые испытывают различные приключения и преодолевают трудности. Сказки могут быть веселыми и забавными, а иногда они могут быть грустными или страшными. Но в конце всегда происходит что-то хорошее, и герои получают счастливый конец.",
+          "storySource": "quiz-fairytales/p2.s1.mp3",
+          "character": [
+            "Аладин",
+            "Красная шапочка",
+            "Колобок",
+            "Буратино"
+          ],
+          "FirstCharacter": "Аладин",
+          "FirstCharacterText": "Алладин - это главный герой сказки Алладин и волшебная лампа. Он был обычным мальчиком, который случайно нашел волшебную лампу. При помощи этой лампы он вызывал джинна, который исполнял его желания. Алладин использовал свои желания, чтобы стать богатым и выйти замуж за принцессу. В конце сказки он победил злого волшебника и жил счастливо со своей возлюбленной.",
+          "FirstCharacterSource": "quiz-fairytales/p1.c1.mp3",
+          "SecondCharacter": "Красная шапочка",
+          "SecondCharacterText": "Красная Шапочка - это героиня сказки. Она была создана в сказке Красная Шапочка, которую написал французский писатель Шарль Перро. В этой сказке Красная Шапочка отправляется к своей бабушке, но на пути встречает злого волка, который пытается съесть ее и бабушку. В конце сказки Красная Шапочка и ее бабушка спасаются благодаря помощи лесничего.",
+          "SecondCharacterSource": "quiz-fairytales/p1.c2.mp3",
+          "ThirdCharacter": "Колобок",
+          "ThirdCharacterText": "Колобок это главный персонаж сказки про Колобка. Это круглый аппетитный хлебушек, который умеет разговаривать, петь и быстро передвигаться. Он убегает от бабушки и дедушки, чтобы наслаждаться свободой.",
+          "ThirdCharacterSource": "quiz-fairytales/p1.c3.mp3",
+          "FourthCharacter": "Буратино",
+          "FourthCharacterText": "Буратино – это деревянный мальчик, которого сделал из полена добрый старик по имени Карло. Буратино очень любопытный и озорной. У него длинный нос и большие глаза. Буратино живёт в мире сказки, где он встречает много разных персонажей, таких как черепаха Тортилла, кот Базилио и лиса Алиса.",
+          "FourthCharacterSource": "quiz-fairytales/p1.c4.mp3"
+        }
+      ]
+    }
+  ]
+}
