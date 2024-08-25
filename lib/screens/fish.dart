@@ -159,19 +159,21 @@ class _TaskState extends State<fish> {
     if (answer == rightAnswer) {
       setState(() {
         _right = true;
-        _ansImageSource = _taskData[_currentText]['questions'][_currentQuestion]
+        _backgroundImagePath = _taskData[_currentText]['questions'][_currentQuestion]
             ['ansImageSource'];
       });
       playerAnswer.play(AssetSource(_taskData[_currentText]['questions']
           [_currentQuestion]['rightAnswerSource']));
-      Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage(_ansImageSource),
-            fit: BoxFit.cover,
-          ),
-        ),
-      );
+      // SafeArea(
+      //     child: Container(
+      //   decoration: BoxDecoration(
+      //     image: DecorationImage(
+      //       image: AssetImage(_ansImageSource),
+      //       fit: BoxFit.cover,
+      //     ),
+      //   ),
+      //     ),
+      // );
       Future.delayed(const Duration(seconds: 2), () {
         setState(() {
           _highlightedAnswer = null;

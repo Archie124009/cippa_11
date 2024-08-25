@@ -123,17 +123,17 @@
         {
           "questionText": "Как ты думаешь, куда больше поместится воды, в чашку или в ложку? Если в чашку, нажми букву 'Ч' если в ложку - букву 'Л'. Отвечает первая команда.",
           "questionSource": "quiz-16-03-2023/p2.q1.mp3",
-          "backgroundSource": "assets/quiz-16-03-2023/image/1.png",
-          "imageSource": "assets/quiz-16-03-2023/image/2.png",
-          "ansImageSource": "assets/quiz-16-03-2023/image/2.1.png",
+          "backgroundSource": "assets/quiz-16-03-2023/image/2.png",
+          "imageSource": "assets/quiz-16-03-2023/image/3.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/4.png",
           "answers": [
-            "Ч",
-            "Л"
+            "Л",
+            "Ч"
           ],
           "rightAnswer": "Ч",
           "button_images": [
-            "assets/quiz-16-03-2023/image/buttons/кружка.png",
-            "assets/quiz-16-03-2023/image/buttons/ложка.png"
+            "assets/quiz-16-03-2023/image/buttons/ложка.png",
+            "assets/quiz-16-03-2023/image/buttons/кружка.png"
           ],
           "rightAnswerText": "Правильно",
           "rightAnswerSource": "quiz-16-03-2023/p2.a1.mp3"
@@ -141,8 +141,8 @@
         {
           "questionText": "Как ты думаешь, куда больше поместится воды, в кастрюлю или в ванну? Если в кастрюлю, нажми букву 'К' если в ванну - букву 'В'. Отвечает вторая команда.",
           "questionSource": "quiz-16-03-2023/p2.q2.mp3",
-          "imageSource": "assets/quiz-16-03-2023/image/3.png",
-          "ansImageSource": "assets/quiz-16-03-2023/image/3.1.png",
+          "imageSource": "assets/quiz-16-03-2023/image/5.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/6.png",
           "answers": [
             "К",
             "В"
@@ -158,8 +158,8 @@
         {
           "questionText": "Как ты думаешь, куда больше поместится воды, в чашку или в ванну? Если в чашку, нажми букву 'Ч' если в ванну - букву 'В'. Отвечает первая команда.",
           "questionSource": "quiz-16-03-2023/p2.q3.mp3",
-          "imageSource": "assets/quiz-16-03-2023/image/4.png",
-          "ansImageSource": "assets/quiz-16-03-2023/image/4.1.png",
+          "imageSource": "assets/quiz-16-03-2023/image/7.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/8.png",
           "answers": [
             "Ч",
             "В"
@@ -175,8 +175,8 @@
         {
           "questionText": "Как ты думаешь, где больше воды, в море или в ложке? Если в море, нажми букву 'М' если в ложку - букву 'Л'. Отвечает вторая команда.",
           "questionSource": "quiz-16-03-2023/p2.q4.mp3",
-          "imageSource": "assets/quiz-16-03-2023/image/5.png",
-          "ansImageSource": "assets/quiz-16-03-2023/image/5.1.png",
+          "imageSource": "assets/quiz-16-03-2023/image/9.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/10.png",
           "answers": [
             "М",
             "Л"
@@ -192,16 +192,16 @@
         {
           "questionText": "Как ты думаешь, где больше воды, в реке или в чашке? Если в реке, нажми букву 'Р' если в чашке - букву 'Ч'. Отвечает первая команда.",
           "questionSource": "quiz-16-03-2023/p2.q5.mp3",
-          "imageSource": "assets/quiz-16-03-2023/image/6.png",
-          "ansImageSource": "assets/quiz-16-03-2023/image/6.1.png",
+          "imageSource": "assets/quiz-16-03-2023/image/11.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/12.png",
           "answers": [
-            "Р",
-            "Ч"
+            "Ч",
+            "Р"
           ],
           "rightAnswer": "Р",
           "button_images": [
-            "assets/quiz-16-03-2023/image/buttons/речка.png",
-            "assets/quiz-16-03-2023/image/buttons/кружка.png"
+            "assets/quiz-16-03-2023/image/buttons/кружка.png",
+            "assets/quiz-16-03-2023/image/buttons/речка.png"
           ],
           "rightAnswerText": "Правильно",
           "rightAnswerSource": "quiz-16-03-2023/p2.a5.mp3"
@@ -209,16 +209,16 @@
         {
           "questionText": "Как ты думаешь, где больше воды, в ванне или в море? Если в ванне, нажми букву 'В' если в море - букву 'М'. Отвечает вторая команда.",
           "questionSource": "quiz-16-03-2023/p2.q6.mp3",
-          "imageSource": "assets/quiz-16-03-2023/image/7.png",
-          "ansImageSource": "assets/quiz-16-03-2023/image/7.1.png",
+          "imageSource": "assets/quiz-16-03-2023/image/13.png",
+          "ansImageSource": "assets/quiz-16-03-2023/image/14.png",
           "answers": [
-            "В",
-            "М"
+            "М",
+            "В"
           ],
           "rightAnswer": "М",
           "button_images": [
-            "assets/quiz-16-03-2023/image/buttons/ванна.png",
-            "assets/quiz-16-03-2023/image/buttons/море.png"
+            "assets/quiz-16-03-2023/image/buttons/море.png",
+            "assets/quiz-16-03-2023/image/buttons/ванна.png"
           ],
           "rightAnswerText": "Правильно",
           "rightAnswerSource": "quiz-16-03-2023/p2.a6.mp3"

@@ -159,7 +159,7 @@ class _TaskState extends State<Russianlanguage> {
     if (answer == rightAnswer) {
       setState(() {
         _right = true;
-        _ansImageSource = _taskData[_currentText]['questions'][_currentQuestion]
+        _backgroundImagePath = _taskData[_currentText]['questions'][_currentQuestion]
             ['ansImageSource'];
       });
       playerAnswer.play(AssetSource(_taskData[_currentText]['questions']
