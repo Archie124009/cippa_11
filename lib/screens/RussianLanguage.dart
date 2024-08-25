@@ -126,15 +126,15 @@ class _TaskState extends State<Russianlanguage> {
     });
   }
 
-  void _repeatQuestion() async {
-    setState(() {
-      _showVariants = false;
-      _right = false;
-      _highlightedAnswer = null;
-    });
-    await playerQuestion.play(AssetSource(_taskData[_currentText]['questions']
-        [_currentQuestion]['questionSource']));
-  }
+  // void _repeatQuestion() async {
+  //   setState(() {
+  //     _showVariants = false;
+  //     _right = false;
+  //     _highlightedAnswer = null;
+  //   });
+  //   await playerQuestion.play(AssetSource(_taskData[_currentText]['questions']
+  //       [_currentQuestion]['questionSource']));
+  // }
 
   void _checkAnswer(int answerIndex) {
     final answer = _taskData[_currentText]['questions'][_currentQuestion]
