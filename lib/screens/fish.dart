@@ -17,7 +17,7 @@ class fish extends StatefulWidget {
 class _TaskState extends State<fish> {
   List _taskData = [];
   String _backgroundImagePath = '';
-  String _ansImageSource = '';
+  // String _ansImageSource = '';
   final List<List<String>> _answers = [
     [
       'startDatetime',
@@ -52,7 +52,7 @@ class _TaskState extends State<fish> {
       _taskData = data['data'];
       _backgroundImagePath =
           _taskData[2]['questions'][_currentQuestion]['backgroundSource'];
-      _ansImageSource = _taskData[_currentText]['questions'][_currentQuestion]
+      // _ansImageSource = _taskData[_currentText]['questions'][_currentQuestion]
           ['ansImageSource'];
     });
   }
@@ -78,8 +78,8 @@ class _TaskState extends State<fish> {
         print('QUESTION COMPLETED');
         setState(() {
           _showVariants = true;
-          _ansImageSource = _taskData[_currentText]['questions']
-              [_currentQuestion]['ansImageSource'];
+          // _ansImageSource = _taskData[_currentText]['questions']
+          //     [_currentQuestion]['ansImageSource'];
           _backgroundImagePath =
               _taskData[2]['questions'][_currentQuestion]['imageSource'];
           _startTime = DateTime.now();

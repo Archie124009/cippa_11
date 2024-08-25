@@ -17,7 +17,7 @@ class Russianlanguage extends StatefulWidget {
 class _TaskState extends State<Russianlanguage> {
   List _taskData = [];
   String _backgroundImagePath = '';
-  String _ansImageSource = '';
+  // String _ansImageSource = '';
   final List<List<String>> _answers = [
     [
       'startDatetime',
@@ -52,8 +52,8 @@ class _TaskState extends State<Russianlanguage> {
       _taskData = data['data'];
       _backgroundImagePath =
           _taskData[1]['questions'][_currentQuestion]['backgroundSource'];
-      _ansImageSource = _taskData[_currentText]['questions'][_currentQuestion]
-          ['ansImageSource'];
+      // _ansImageSource = _taskData[_currentText]['questions'][_currentQuestion]
+      //     ['ansImageSource'];
     });
   }
 
@@ -78,8 +78,8 @@ class _TaskState extends State<Russianlanguage> {
         print('QUESTION COMPLETED');
         setState(() {
           _showVariants = true;
-          _ansImageSource = _taskData[_currentText]['questions']
-              [_currentQuestion]['ansImageSource'];
+          // _ansImageSource = _taskData[_currentText]['questions']
+          //     [_currentQuestion]['ansImageSource'];
           _backgroundImagePath =
               _taskData[1]['questions'][_currentQuestion]['imageSource'];
           _startTime = DateTime.now();
@@ -164,14 +164,14 @@ class _TaskState extends State<Russianlanguage> {
       });
       playerAnswer.play(AssetSource(_taskData[_currentText]['questions']
           [_currentQuestion]['rightAnswerSource']));
-      Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage(_ansImageSource),
-            fit: BoxFit.cover,
-          ),
-        ),
-      );
+      // Container(
+      //   decoration: BoxDecoration(
+      //     image: DecorationImage(
+      //       image: AssetImage(_ansImageSource),
+      //       fit: BoxFit.cover,
+      //     ),
+      //   ),
+      // );
       Future.delayed(const Duration(seconds: 2), () {
         setState(() {
           _highlightedAnswer = null;
